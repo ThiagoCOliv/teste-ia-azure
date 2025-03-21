@@ -11,7 +11,11 @@ Este repositório documenta o processo de análise de sentenças em inglês util
 
 - A IA forneceu feedback sobre o tom geral das frases e a analise de cada frase individualmente no sentido positivo, neutro ou negativo (Imagem 1)
 - Foi indicada a portentagem de confiança de cada sentença e de todas em geral (Imagem 2)
-- Nem todas as sentenças apresentam as palavras chave utilizadas para fazer a análise. Porém nas que foram utilizadas nem sempre fica claro a ligação entre os termos e a avaliação final 
+- Nem todas as sentenças apresentam as palavras chave utilizadas para fazer a análise. Porém nas que foram utilizadas nem sempre fica claro a ligação entre os termos e a avaliação final (Imagens 3 e 4)
 
-Prints do Processo
+## Prints do Processo
 
+![Imagem 1](imgs/Captura de Tela (1).png)
+![Imagem 2](imgs/Captura de Tela (2).png)
+![Imagem 3](imgs/Captura de Tela (3).png)
+![Imagem 4](imgs/Captura de Tela (4).png)

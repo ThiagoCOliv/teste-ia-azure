@@ -15,7 +15,7 @@ Este repositório documenta o processo de análise de sentenças em inglês util
 
 ## Prints do Processo
 
-![Imagem 1](imgs/Captura_de_Tela(1).png)
-![Imagem 2](imgs/Captura_de_Tela(2).png)
-![Imagem 3](imgs/Captura_de_Tela(3).png)
-![Imagem 4](imgs/Captura_de_Tela(4).png)
+- Imagem 1 ![Imagem 1](imgs/Captura_de_Tela(1).png)
+- Imagem 2 ![Imagem 2](imgs/Captura_de_Tela(2).png)
+- Imagem 3 ![Imagem 3](imgs/Captura_de_Tela(3).png)
+- Imagem 4 ![Imagem 4](imgs/Captura_de_Tela(4).png)
